@@ -1,0 +1,40 @@
+{
+  "meta": {
+    "build_name": "",
+    "van": "",
+    "owner": "",
+    "generated_at": "",
+    "current_phase_id": "",
+    "current_phase_name": ""
+  },
+  "phases": [],
+  "decisions": {
+    "total": 0,
+    "open": 0,
+    "confirmed": 0,
+    "open_list": []
+  },
+  "budget": {
+    "total_budgeted": 0,
+    "total_spent": 0,
+    "remaining": 0,
+    "by_category": []
+  },
+  "weight": {
+    "gvw": 0,
+    "kerb_weight": 0,
+    "max_payload": 0,
+    "estimated_build_weight": 0,
+    "headroom": 0,
+    "warning": false
+  },
+  "shopping": {
+    "items_total": 0,
+    "items_not_ordered": 0,
+    "items_ordered": 0,
+    "items_received": 0
+  },
+  "sessions": [],
+  "features": [],
+  "tasks_parallel": []
+}
